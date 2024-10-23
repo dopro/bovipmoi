@@ -1,0 +1,6 @@
+{
+  "BASE_URL": "https://fionech.net/",
+  "BASE_URL_SOCKET": "wss://fionech.net:2096",
+  "BASE_URL_SOCKET_SYS": "wss://fionech.net:2087",
+  "BASE_URL_SOCKET_NAP": "wss://fionech.net:2083"
+}
